@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world! I am a programming beginner 👋
 
 <!--
 **Reagan615/Reagan615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
