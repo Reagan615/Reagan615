@@ -26,7 +26,7 @@
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reagan615" width="500px" height="300px"> </div>
   
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Achuan-2&theme=minimal" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=Reagan615&theme=minimal" />
 </div>
 <!---
 Reagan615/Reagan615 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
