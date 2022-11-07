@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🎉 Welcome to Reagan's Github Homepage!
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=300&center=true&vCenter=true&width=435&lines=Hello+World!;Have+a+nice+day!" alt="Typing SVG" /></a></h1>
 
-<img align="center" alt="Coding" width="1000" height="500"  src="https://github.com/Reagan615/Reagan615/blob/main/code.jpeg">
+<img align="center" alt="Coding" width="1000" height="250"  src="https://github.com/Reagan615/Reagan615/blob/main/code.jpeg">
  
  # <h2>About me
   A beginner software developer from Winnipeg.Nice to meet you, welcome to contact me.
